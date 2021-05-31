@@ -1,4 +1,6 @@
-# Blabbr API
-## The official API to communitate with the [Blabbr website](blabbr.xyz)
+# BlabbrAPI (Node)
+Welcome to the Blabbr API! This is the official API to communicate with the [Blabbr](blabbr.xyz) Website. You can install by using the following command:
 
-Docs [here](//docs.blabbr.xyz#api)
+```shellscript
+npm i blabbrapi
+```
