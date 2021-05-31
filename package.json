@@ -1,0 +1,20 @@
+{
+  "name": "blabbrapi",
+  "version": "0.0.1",
+  "description": "The official node.js API to communicate with the blabbr website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blabbr",
+    "api",
+    "developers",
+    "bots"
+  ],
+  "author": "Team Blabbr",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
